@@ -17,7 +17,7 @@ tags:
 - gradient-descent
 ---
 
-# california Housing Price Prediction (Regression)
+# California Housing Price Prediction (Regression)
 
 This model predicts california housing prices using **Batch Gradient Descent** with L2 regularization.
 
