@@ -6,6 +6,10 @@ This is my assignment 3 for Machine Learning
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kainat5008/Assignment-3/blob/main/ML_TASK1_A3.ipynb)
 
 # Task2 
+
+## Hugging Face Model
+[View Model on Hugging Face](https://huggingface.co/keenu-5008/california-housing-regression)
+
 ---
 tags:
 - regression
@@ -36,6 +40,3 @@ new_data = np.array([[0.1, 20.0, 5.0, ...]])  # Replace with your data
 scaled_data = scaler.transform(new_data)
 prediction = model.predict(scaled_data)
 print(prediction) 
-
-## Hugging Face Model
-[View Model on Hugging Face](https://huggingface.co/keenu-5008/california-housing-regression)
