@@ -41,3 +41,11 @@ scaled_data = scaler.transform(new_data)
 prediction = model.predict(scaled_data)
 print(prediction)
 
+
+Key points:
+1. The code block starts with ```python
+2. The code block ends with ```
+3. Make sure there are no spaces after the closing ``` (some Markdown parsers are strict about this)
+4. The closing ``` should be on its own line
+
+This will render properly in your README.md file with syntax highlighting for Python code.
