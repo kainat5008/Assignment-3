@@ -41,4 +41,4 @@ scaled_data = scaler.transform(new_data)
 prediction = model.predict(scaled_data)
 print(prediction) 
 
----
+```text
