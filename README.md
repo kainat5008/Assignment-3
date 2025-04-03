@@ -40,3 +40,5 @@ new_data = np.array([[0.1, 20.0, 5.0, ...]])  # Replace with your data
 scaled_data = scaler.transform(new_data)
 prediction = model.predict(scaled_data)
 print(prediction) 
+
+---
