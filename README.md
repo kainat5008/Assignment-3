@@ -62,3 +62,13 @@ print(prediction)
 Enter features separated by spaces: 0.1 20.0 5.0 1.0 500.0 6.0 40.0 -122.0
 Predicted Price: $250000.00
 ```
+# Task4
+
+## Weights & Biases Integration
+Training metrics were tracked using W&B. View the live dashboard here:  
+[![W&B Dashboard](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)](wandb.ai/kainatkhalid-5008-fast-nuces/california-housing-regression?nw=nwuserkainatkhalid5008)
+
+Key tracked metrics:
+- Training loss
+- Test loss
+- Hyperparameters
