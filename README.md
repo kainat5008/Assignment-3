@@ -66,7 +66,7 @@ Predicted Price: $250000.00
 
 ## Weights & Biases Integration
 Training metrics were tracked using W&B. View the live dashboard here:  
-[![W&B Dashboard](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)](wandb.ai/kainatkhalid-5008-fast-nuces/california-housing-regression?nw=nwuserkainatkhalid5008)
+[![W&B Dashboard](https://img.shields.io/badge/Weights_&_Biases-FFCC33?style=for-the-badge&logo=WeightsAndBiases&logoColor=black)](https://wandb.ai/kainatkhalid-5008-fast-nuces/california-housing-regression)
 
 Key tracked metrics:
 - Training loss
