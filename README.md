@@ -41,4 +41,7 @@ scaled_data = scaler.transform(new_data)
 prediction = model.predict(scaled_data)
 print(prediction) 
 
-```text
+
+git add README.md
+git commit -m "Added Hugging Face model link"
+git push origin main
