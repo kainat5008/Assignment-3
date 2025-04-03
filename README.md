@@ -42,4 +42,4 @@ prediction = model.predict(scaled_data)
 print(prediction)
 ```
 
-hdejkdhfjk
+
