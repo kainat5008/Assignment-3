@@ -42,4 +42,23 @@ prediction = model.predict(scaled_data)
 print(prediction)
 ```
 
+# Task3
+## Inference Script
 
+### How to Run
+1. Install dependencies:
+   ```bash
+   pip install numpy joblib huggingface_hub
+   ```
+2. Download `inference.py` and run:
+   ```bash
+   python inference.py
+   ```
+3. Enter 8 features when prompted (e.g., `0.1 20.0 5.0 1.0 500.0 6.0 40.0 -122.0`).
+
+### Expected Output
+```
+=== Boston Housing Price Predictor ===
+Enter features separated by spaces: 0.1 20.0 5.0 1.0 500.0 6.0 40.0 -122.0
+Predicted Price: $250000.00
+```
