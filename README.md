@@ -1,6 +1,6 @@
 # Assignment-3
 
-## Project Overview
+# Project Overview
 Developed a California housing price prediction model using:
 - Batch/Stochastic/Mini-batch Gradient Descent
 - L2 Regularization
