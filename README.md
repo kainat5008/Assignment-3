@@ -1,5 +1,12 @@
 # Assignment-3
-This is my assignment 3 for Machine Learning
+
+## Project Overview
+Developed a California housing price prediction model using:
+- Batch/Stochastic/Mini-batch Gradient Descent
+- L2 Regularization
+- Early Stopping
+- Flask Web Interface
+```
 
 
 # Task1 Button 
@@ -91,4 +98,13 @@ Key tracked metrics:
 - `app.py` (Flask backend)
 - `templates/index.html` (Frontend)
 - `requirements.txt` (Dependencies)
+  ```
+
+
+## Dependencies
+Listed in `requirements.txt`:
+- Flask
+- scikit-learn
+- numpy
+- huggingface_hub
   ```
