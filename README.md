@@ -1,14 +1,5 @@
 # Assignment-3
 
-# Project Overview
-Developed a California housing price prediction model using:
-- Batch/Stochastic/Mini-batch Gradient Descent
-- L2 Regularization
-- Early Stopping
-- Flask Web Interface
-```
-
-
 # Task1 Button 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kainat5008/Assignment-3/blob/main/ML_TASK1_A3.ipynb)
 
