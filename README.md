@@ -72,3 +72,23 @@ Key tracked metrics:
 - Training loss
 - Test loss
 - Hyperparameters
+
+  
+## Task 5: Web UI
+
+### How to Run Locally
+1. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+   ```
+2. Start the Flask app:
+   ```bash
+   python app.py
+   ```
+3. Access at `http://localhost:5000`
+
+### Files Submitted
+- `app.py` (Flask backend)
+- `templates/index.html` (Frontend)
+- `requirements.txt` (Dependencies)
+  ```
