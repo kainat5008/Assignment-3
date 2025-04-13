@@ -1,6 +1,0 @@
-flask
-numpy
-joblib
-huggingface_hub
-gunicorn  # For deployment
-scikit-learn==1.3.2  # Specify a version compatible with your model
