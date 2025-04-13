@@ -74,22 +74,27 @@ Key tracked metrics:
   
 ## Task 5: Web UI
 
-### How to Run Locally
-1. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Start the Flask app:
-   ```bash
-   python app.py
-   ```
-3. Access at `http://localhost:5000`
+# California Housing Price Predictor 🏠💰
 
-### Files Submitted
-- `app.py` (Flask backend)
-- `templates/index.html` (Frontend)
-- `requirements.txt` (Dependencies)
-  ```
+A Flask web app that predicts California housing prices using a pre-trained linear regression model, deployable via Google Colab with ngrok.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo-name/blob/main/your-notebook.ipynb)
+
+## Features ✨
+- 🚀 Instant deployment from Colab
+- 📊 Predicts median house values (in $100,000s)
+- 🔍 Input validation with error handling
+- 💻 Mobile-responsive web interface
+- 🔄 Persistent model loading from Hugging Face Hub
+
+## How to Use 🛠️
+
+### 1. Quick Start (Colab)
+Click the **Open in Colab** button above, then:
+```python
+1. Run all cells (Runtime → Run all)
+2. When prompted, enter your Hugging Face token
+3. Access the public ngrok URL provided
 
 
 ## Dependencies
