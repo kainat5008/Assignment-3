@@ -95,7 +95,7 @@ Click the **Open in Colab** button above, then:
 1. Run all cells (Runtime → Run all)
 2. When prompted, enter your Hugging Face token
 3. Access the public ngrok URL provided
-
+```
 
 ## Dependencies
 Listed in `requirements.txt`:
